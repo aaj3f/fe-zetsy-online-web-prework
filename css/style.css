@@ -18,3 +18,12 @@ body {
 }
 
 /* Write all remaining styles here */
+
+/*////////// Layout //////////*/
+
+header {
+	border-bottom: 1px solid gray;
+}
+
+
+/*////////// Sections //////////*/
